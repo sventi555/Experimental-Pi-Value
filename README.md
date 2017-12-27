@@ -1,5 +1,1 @@
-# Experimental-Pi-Value
-# Experimental-Pi-Value
-# Experimental-Pi-Value
-# Experimental-Pi-Value
-# Experimental-Pi-Value
+# A value determined experimentally for pi by determining the probability of two random integers being coprime.

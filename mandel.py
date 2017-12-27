@@ -1,3 +1,7 @@
+#This determines pi by reitterating z^2 + c, with c as a constant E away from 0.25 and z starts at 0. 
+#Pi comes from the number of times this itteration is run before the value of z^2 + c >= 2 multiplied by the square
+#root of E. Enjoy.
+
 import math
 
 def mandel(E):

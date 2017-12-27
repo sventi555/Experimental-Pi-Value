@@ -1,1 +1,1 @@
-# A value determined experimentally for pi by determining the probability of two random integers being coprime.
+# Different methods of experimentally determining the value of pi, to varying degrees of accuracy.
